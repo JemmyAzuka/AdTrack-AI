@@ -1,0 +1,5 @@
+event_id,source,event_name,occurred_at,value,currency,order_id,utm_source,utm_medium,utm_campaign,fbc,ttclid
+web-1001,website,Purchase,2026-10-31T10:15:00Z,125.00,USD,ORD-1001,meta,paid_social,october_launch,fb.1.demo,
+crm-1002,crm,QualifiedLead,2026-10-31T11:20:00Z,0,USD,LEAD-1002,tiktok,paid_social,october_launch,,,tt-demo
+web-1003,website,Lead,2026-11-01T09:05:00Z,0,USD,LEAD-1003,google,cpc,brand_search,,
+tiktok-1004,tiktok,CompletePayment,2026-11-01T12:30:00Z,89.50,USD,ORD-1004,tiktok,paid_social,retargeting,,,tt-demo-2
